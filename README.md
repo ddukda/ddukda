@@ -1,4 +1,4 @@
-### 공부 좀 해라 진호야.
+### 공부 좀 해라.
 
 <!--
 **ddukda/ddukda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
